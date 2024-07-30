@@ -2,8 +2,8 @@
 A simple Telegram bot to help you manage your daily tasks by sending reminders at specified intervals. This bot allows you to add tasks, set reminders, mark tasks as done, and view your task list.
 
 <div style="display: flex; gap: 20px;">
-  <img src="https://github.com/user-attachments/assets/c1b1c466-ff5c-42f4-a867-13c6804af1f3" alt="Screenshot 2024-07-30 180746" width="450" style="border: 2px solid rgba(0, 0, 0, 0.2); border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); display: block;"/>
-  <img src="https://github.com/user-attachments/assets/1f6e52cf-a614-4cfc-8f91-98b8554a3a66" alt="Screenshot 2024-07-30 180759" width="450" height="425" style="border: 2px solid rgba(0, 0, 0, 0.2); border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); display: block;" />
+  <img src="https://github.com/user-attachments/assets/c1b1c466-ff5c-42f4-a867-13c6804af1f3" alt="Screenshot 2024-07-30 180746" width="400" style="border: 2px solid rgba(0, 0, 0, 0.2); border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); display: block;"/>
+  <img src="https://github.com/user-attachments/assets/1f6e52cf-a614-4cfc-8f91-98b8554a3a66" alt="Screenshot 2024-07-30 180759" width="400" height="375" style="border: 2px solid rgba(0, 0, 0, 0.2); border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); display: block;" />
 </div>
 
 ## Features
